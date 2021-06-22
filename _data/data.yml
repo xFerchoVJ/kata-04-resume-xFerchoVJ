@@ -12,14 +12,14 @@ sidebar:
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: fer_elsword@hotmail.com
+  phone: 3125944200
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: www.linkedin.com/in/fernando-viveros-jimenez-a805b6208
+  github: https://github.com/xFerchoVJ
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@xFerchoVJ'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,8 +32,8 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom: French
+      level: Begginer
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
