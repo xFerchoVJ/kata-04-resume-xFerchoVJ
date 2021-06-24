@@ -125,17 +125,23 @@ skills:
     - name: Css
       level: 80%
 
+    - name: SASS
+      level: 60%
+
     - name: Javascript
       level: 40%
+
+    - name: React
+      level: 20%
 
     - name: Sql
       level: 40%
 
-    - name: C/C++
+    - name: Ruby
       level: 20%
 
-    - name: Ruby
-      level: 40%
+    - name: Rails
+      level: 20%
 
 # NO MODIFICAR
 footer: >
