@@ -142,6 +142,12 @@ skills:
     - name: Rails
       level: 20%
 
+    - name: Git
+      level: 60%
+
+    - name: Linux
+      level: 20%
+
 # NO MODIFICAR
 footer: >
   BrightCoders Academy
