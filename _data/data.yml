@@ -66,8 +66,7 @@ sidebar:
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
-  summary: |
-    I'm diamond 4 in valorant
+  summary: | #Pendiente de modificar!!
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
