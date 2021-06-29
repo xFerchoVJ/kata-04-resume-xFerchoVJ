@@ -67,13 +67,10 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: | 
-   Lorem ipsum dolor sit amet, 
-   consectetur adipiscing elit. 
-   Sed dignissim odio vitae purus maximus, 
-   vel tristique arcu sagittis. Aenean a sem 
-   at metus elementum imperdiet sed sed eros. 
-   Ut quis arcu eget urna vulputate euismod a id ante. 
-
+   I'm a person who likes a lot learning new thins, when i start learn something it doesn't take a lot for me to master it.
+   I love a lot listening to music, my favorite gnre is rock and my favorite band is Metallica!
+   I consider myself a good friend and i consider myself someone to whom you can tell how you fell.
+   I always seek to learn more and never stop learning.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Ingenieria en Sistemas Computacionales
