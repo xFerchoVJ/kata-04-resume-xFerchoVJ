@@ -67,7 +67,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: | 
-   I'm a person who likes a lot learning new thinGs, when i start learn something it doesn't take a lot for me to master it.
+   I'm a person who likes a lot learning new things, when i start learn something it doesn't take a lot for me to master it.
    I love a lot listening to music, my favorite gender is rock and my favorite band is Metallica!
    I consider myself a good friend and i consider myself someone to whom you can tell how you fell.
    I always seek to learn more and never stop learning.
@@ -119,7 +119,7 @@ skills:
 
   toolset:
     - name: Java
-      level: 80%
+      level: 60%
 
     - name: Html
       level: 80%
@@ -128,10 +128,10 @@ skills:
       level: 80%
 
     - name: SASS
-      level: 60%
+      level: 80%
 
     - name: Javascript
-      level: 40%
+      level: 60%
 
     - name: React
       level: 20%
@@ -140,16 +140,16 @@ skills:
       level: 40%
 
     - name: Ruby
-      level: 20%
+      level: 40%
 
     - name: Rails
-      level: 20%
+      level: 40%
 
     - name: Git
       level: 60%
 
     - name: Linux
-      level: 20%
+      level: 40%
 
 # NO MODIFICAR
 footer: >
