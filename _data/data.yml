@@ -67,13 +67,19 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: | 
-   I'm a person who likes a lot learning new things, when i start learn something it doesn't take a lot for me to master it.
-   I love a lot listening to music, my favorite gender is rock and my favorite band is Metallica!
-   I consider myself a good friend and i consider myself someone to whom you can tell how you fell.
-   I always seek to learn more and never stop learning.
+   I'm a person who likes to investigate a lot and learn new things.
+   Whem i'm very passionate about something, i don't stop investigating
+   about it until i can master what has interested me-
+   I'm responsible, i have the ability to guide, to listen and improve.
+   I considered myself a kind, respectful person and with ease to be able
+   to communicate with people.
+   As hobbies I love listening to music and also playing music!
+   I'm a coffe lover and in my free time i love to learn more about
+   technologies that interest me!
+   I'm always looking to learn more and will never stop doing it.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Ingenieria en Sistemas Computacionales
+  - degree: Computerstystems engineer.
     university: Tecnologico Nacional de México campus Colima
     time: 2019 Aug - current
     details: |
@@ -104,9 +110,19 @@ experiences:
     time: 2015 - 2015
     company: Universidad de Colima
     details: |
-      Proyecto escolar que aplicaba tecnologías web como HTML, CSS, Javascript 
-      y PHP para interactuar con una base de datos que tenga el tipo monedas
-      y que la aplicación pueda realizar un CRUD.
+      School project for the management of the database of
+      an exchange house using technologies for the frontend
+      such as HTML, CSS, JS and for the backend php.
+      
+  - role: Brigthcoder
+    time: 2021 May - 2021 Sep
+    company: MagmaLabs
+    details: |
+      As brightcoder I've learned about some good practices as well as different tools.
+      I've resolved some challenges to learn deeply ruby and after creating projects with Ruby on Rails
+      Some tasks that I've carried out are the following.
+      Implementing authentication and authorization, making unit tests 
+      and deploying web applications.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
